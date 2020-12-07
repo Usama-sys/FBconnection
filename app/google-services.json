@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759899987513",
+    "project_id": "fbconnection-f4565",
+    "storage_bucket": "fbconnection-f4565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759899987513:android:b1c70f62dd6627b43237e8",
+        "android_client_info": {
+          "package_name": "com.example.firstconnection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759899987513-6kccnaqidth637fb2htk204oogmvhf1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUwHZcJIqocSiIEr0XqIIkwYhw5bO_q9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759899987513-6kccnaqidth637fb2htk204oogmvhf1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
